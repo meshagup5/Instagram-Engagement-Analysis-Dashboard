@@ -112,3 +112,5 @@ Based on the findings, the following recommendations were developed:
 ## Project Outcome
 
 Developed an interactive Excel dashboard that brings together audience growth, content performance, demographic insights and geographic distribution. The analysis identified differences in engagement across post formats and video durations, highlighted key audience segments and generated actionable recommendations to support content planning and audience growth.
+<img width="937" height="469" alt="Screenshot 2026-06-07 181900" src="https://github.com/user-attachments/assets/b8ad589f-523c-4a11-8b5a-1888b1aaa53b" />
+<img width="956" height="506" alt="Screenshot 2026-06-07 173400" src="https://github.com/user-attachments/assets/af4b80af-896c-4791-80c4-91897d6f5db9" />
